@@ -1,0 +1,6 @@
+# About Me
+My name is Azad Mohamed. I graduated from Ryerson University in 2019 in Human Resources Management. I have over 5 years of comprehensive experience in customer service, sales, and administrative support across various sectors.
+I am Bilingual in Tamil.
+Some of my hobbies include cooking, working out and playing video games. One technological achievement that I am most proud of is building my very own custom gaming PC. The initial impression was daunting at first to say the least, however, it only motivated me to work harder to build it. The main obstacle I faced with this project was getting the the graphics card to display the boot up and Windows screens respectively. Despite in the moment of being frustrated, I quickly realized that some of the parts were not connnected correctly onto the motherboard, which only took a couple Google Searches to resolve. Nonetheless, my PC is still going strong despite having older parts, but gets the job done!
+
+I currently do not possess any skills or knowledge in programming, which was my purpose to join this program. However, I am proficient in Windows OS, Microsoft Office Suite. Other "technologies" that I have dabbled in is adding mods to video games such as Pokemon, Skyrim, Super Mario etc.
